@@ -54,11 +54,12 @@ jobs:
     steps:
       # 生成SVG动画
       - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3.3.0    # 指定稳定版本
+#        uses: Platane/snk/svg-only@v3.3.0    # 指定稳定版本
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: "ArnoFrost"
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg                   # 输出路径
+            dist/snake.svg
 
       # 推送生成文件到output分支
       - name: Push to Output Branch
@@ -67,7 +68,7 @@ jobs:
           target_branch: output     # 存放生成文件的分支
           build_dir: dist           # 构建目录
         env:
-          GITHUB_TOKEN: ${{ github.token }}  # 自动认证
+          GITHUB_TOKEN: ${{ github.token }}
 
   ##########################
   ### 签名验证作业
@@ -94,7 +95,7 @@ jobs:
       # 运行验证脚本（需确保signature-verifier.py存在）
       - name: Run Verification
         env:
-          GH_USER: "ArnoFrost"
+          GH_USER: ${{ github.repository_owner }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # 认证令牌
         run: python3 signature-verifier.py  # 执行验证脚本
 
