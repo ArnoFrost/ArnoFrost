@@ -1,2 +1,118 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.3.0
+##########################
+### 工作流全局设置
+##########################
+
+# 工作流名称
+name: Auto Update Profile
+
+# 触发条件配置
+on:
+  # 定时触发（每天UTC时间0点执行，对应北京时间8点）
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # 允许手动触发（在GitHub Actions界面点击运行）
+  workflow_dispatch:
+
+# 权限声明（必须开启写权限）
+permissions: 
+  contents: write  # 允许写入仓库内容
+
+##########################
+### 作业定义
+##########################
+
+jobs:
+
+  ##########################
+  ### WakaTime统计更新作业
+  ##########################
+  wakatime:
+    name: WakaTime Metrics
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 使用现成动作生成统计
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # 从仓库Secrets获取
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}                  # GitHub自动生成的Token
+          
+          # 显示配置（根据您的需求调整）
+          SHOW_OS: "False"                   # 关闭操作系统显示
+          SHOW_DAYS_OF_WEEK: "True"          # 开启每周活跃天数
+          SHOW_EDITORS: "True"               # 开启编辑器统计
+          SHOW_SHORT_INFO: "True"            # 显示精简信息
+
+  ##########################
+  ### 贪吃蛇动画生成
+  ##########################
+  snake:
+    name: Snake Animation
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 生成SVG动画
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3.3.0    # 指定稳定版本
+        with:
+          github_user_name: "ArnoFrost"
+          outputs: |
+            dist/snake.svg                   # 输出路径
+
+      # 推送生成文件到output分支
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output     # 存放生成文件的分支
+          build_dir: dist           # 构建目录
+        env:
+          GITHUB_TOKEN: ${{ github.token }}  # 自动认证
+
+  ##########################
+  ### 签名验证作业
+  ##########################
+  verify:
+    name: Signature Verification
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 检出代码
+      - uses: actions/checkout@v4
+    
+      # Python环境设置
+      - name: Setup Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"  # 指定Python版本
+    
+      # 安装依赖
+      - name: Install Packages
+        run: |
+          pip install --upgrade pip requests
+    
+      # 运行验证脚本（需确保signature-verifier.py存在）
+      - name: Run Verification
+        env:
+          GH_USER: "ArnoFrost"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # 认证令牌
+        run: python3 signature-verifier.py  # 执行验证脚本
+
+  ##########################
+  ### 失败作业重试
+  ##########################
+  rerun-failed-jobs:
+    name: Retry Failed
+    runs-on: ubuntu-latest
+    needs: [wakatime, snake, verify]  # 依赖前述作业
+    
+    # 仅在先前作业失败时运行
+    if: failure()  
+    
+    steps:
+      - name: Rerun Failed
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # 认证令牌
+        run: |
+          # 使用GitHub CLI重试失败作业
+          gh run rerun ${{ github.run_id }} --failed
