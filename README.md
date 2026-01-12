@@ -42,8 +42,8 @@
 [![ArnoScripts](https://img.shields.io/badge/ArnoScripts-Research_Toolkit-purple?style=for-the-badge&logo=script)](https://github.com/ArnoFrost/ArnoScripts)
 
 ### 📱 Android Projects
-[![Crack-Card](https://img.shields.io/badge/Crack--Card-JLAU_M1_Card_Program-red?style=for-the-badge&logo=java)](https://github.com/ArnoFrost/Crack-Card)
 [![AdapterDemo](https://img.shields.io/badge/AdapterDemo-RecyclerView_Adapter_Optimization-brightgreen?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/AdapterDemo)
+[![LifeDemo](https://img.shields.io/badge/LifeDemo-Android_Lifecycle_Management-blue?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/LifeDemo)
 
 </div>
 
