@@ -8,26 +8,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Collaboration Tools
-[![DDAC](https://img.shields.io/badge/DDAC-Document--Driven_AI_Collaboration-blue?style=for-the-badge&logo=openai)](https://github.com/ArnoFrost/DDAC)
-[![AI-TASK](https://img.shields.io/badge/AI--TASK-File_Template_Driven_Collaboration-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
-
-### 🛠️ Developer Tools
-[![ADotFiles](https://img.shields.io/badge/ADotFiles-Modular_Zsh_Config_Framework-orange?style=for-the-badge&logo=shell)](https://github.com/ArnoFrost/ADotFiles)
-[![ArnoScripts](https://img.shields.io/badge/ArnoScripts-Research_Toolkit-purple?style=for-the-badge&logo=script)](https://github.com/ArnoFrost/ArnoScripts)
-
-### 📱 Android Projects
-[![Crack-Card](https://img.shields.io/badge/Crack--Card-JLAU_M1_Card_Program-red?style=for-the-badge&logo=java)](https://github.com/ArnoFrost/Crack-Card)
-[![AdapterDemo](https://img.shields.io/badge/AdapterDemo-RecyclerView_Adapter_Optimization-brightgreen?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/AdapterDemo)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -43,7 +23,7 @@
 </div>
 
 <div align="center">
-  <!-- 移除失效的 commits stats，使用单个提交时间分布 -->
+  <!-- 提交时间分布 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArnoFrost&theme=github_dark" height="200" alt="productive time" />
 </div>
 
@@ -89,26 +69,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Collaboration Tools
-[![DDAC](https://img.shields.io/badge/DDAC-Document--Driven_AI_Collaboration-blue?style=for-the-badge&logo=openai)](https://github.com/ArnoFrost/DDAC)
-[![AI-TASK](https://img.shields.io/badge/AI--TASK-File_Template_Driven_Collaboration-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
-
-### 🛠️ Developer Tools
-[![ADotFiles](https://img.shields.io/badge/ADotFiles-Modular_Zsh_Config_Framework-orange?style=for-the-badge&logo=shell)](https://github.com/ArnoFrost/ADotFiles)
-[![ArnoScripts](https://img.shields.io/badge/ArnoScripts-Research_Toolkit-purple?style=for-the-badge&logo=script)](https://github.com/ArnoFrost/ArnoScripts)
-
-### 📱 Android Projects
-[![Crack-Card](https://img.shields.io/badge/Crack--Card-JLAU_M1_Card_Program-red?style=for-the-badge&logo=java)](https://github.com/ArnoFrost/Crack-Card)
-[![AdapterDemo](https://img.shields.io/badge/AdapterDemo-RecyclerView_Adapter_Optimization-brightgreen?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/AdapterDemo)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -124,26 +84,6 @@ graph TB
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Collaboration Tools
-[![DDAC](https://img.shields.io/badge/DDAC-Document--Driven_AI_Collaboration-blue?style=for-the-badge&logo=openai)](https://github.com/ArnoFrost/DDAC)
-[![AI-TASK](https://img.shields.io/badge/AI--TASK-File_Template_Driven_Collaboration-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
-
-### 🛠️ Developer Tools
-[![ADotFiles](https://img.shields.io/badge/ADotFiles-Modular_Zsh_Config_Framework-orange?style=for-the-badge&logo=shell)](https://github.com/ArnoFrost/ADotFiles)
-[![ArnoScripts](https://img.shields.io/badge/ArnoScripts-Research_Toolkit-purple?style=for-the-badge&logo=script)](https://github.com/ArnoFrost/ArnoScripts)
-
-### 📱 Android Projects
-[![Crack-Card](https://img.shields.io/badge/Crack--Card-JLAU_M1_Card_Program-red?style=for-the-badge&logo=java)](https://github.com/ArnoFrost/Crack-Card)
-[![AdapterDemo](https://img.shields.io/badge/AdapterDemo-RecyclerView_Adapter_Optimization-brightgreen?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/AdapterDemo)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -154,53 +94,12 @@ graph TB
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Collaboration Tools
-[![DDAC](https://img.shields.io/badge/DDAC-Document--Driven_AI_Collaboration-blue?style=for-the-badge&logo=openai)](https://github.com/ArnoFrost/DDAC)
-[![AI-TASK](https://img.shields.io/badge/AI--TASK-File_Template_Driven_Collaboration-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
-
-### 🛠️ Developer Tools
-[![ADotFiles](https://img.shields.io/badge/ADotFiles-Modular_Zsh_Config_Framework-orange?style=for-the-badge&logo=shell)](https://github.com/ArnoFrost/ADotFiles)
-[![ArnoScripts](https://img.shields.io/badge/ArnoScripts-Research_Toolkit-purple?style=for-the-badge&logo=script)](https://github.com/ArnoFrost/ArnoScripts)
-
-### 📱 Android Projects
-[![Crack-Card](https://img.shields.io/badge/Crack--Card-JLAU_M1_Card_Program-red?style=for-the-badge&logo=java)](https://github.com/ArnoFrost/Crack-Card)
-[![AdapterDemo](https://img.shields.io/badge/AdapterDemo-RecyclerView_Adapter_Optimization-brightgreen?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/AdapterDemo)
-
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<!-- 使用更稳定的 GitHub Profile Summary Cards 替代 trophy -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnoFrost&theme=github_dark" height="150" alt="github stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnoFrost&theme=github_dark" height="150" alt="repos per language" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Collaboration Tools
-[![DDAC](https://img.shields.io/badge/DDAC-Document--Driven_AI_Collaboration-blue?style=for-the-badge&logo=openai)](https://github.com/ArnoFrost/DDAC)
-[![AI-TASK](https://img.shields.io/badge/AI--TASK-File_Template_Driven_Collaboration-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
-
-### 🛠️ Developer Tools
-[![ADotFiles](https://img.shields.io/badge/ADotFiles-Modular_Zsh_Config_Framework-orange?style=for-the-badge&logo=shell)](https://github.com/ArnoFrost/ADotFiles)
-[![ArnoScripts](https://img.shields.io/badge/ArnoScripts-Research_Toolkit-purple?style=for-the-badge&logo=script)](https://github.com/ArnoFrost/ArnoScripts)
-
-### 📱 Android Projects
-[![Crack-Card](https://img.shields.io/badge/Crack--Card-JLAU_M1_Card_Program-red?style=for-the-badge&logo=java)](https://github.com/ArnoFrost/Crack-Card)
-[![AdapterDemo](https://img.shields.io/badge/AdapterDemo-RecyclerView_Adapter_Optimization-brightgreen?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/AdapterDemo)
 
 </div>
 
@@ -219,26 +118,6 @@ Exploring AI applications in everyday development.
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Collaboration Tools
-[![DDAC](https://img.shields.io/badge/DDAC-Document--Driven_AI_Collaboration-blue?style=for-the-badge&logo=openai)](https://github.com/ArnoFrost/DDAC)
-[![AI-TASK](https://img.shields.io/badge/AI--TASK-File_Template_Driven_Collaboration-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
-
-### 🛠️ Developer Tools
-[![ADotFiles](https://img.shields.io/badge/ADotFiles-Modular_Zsh_Config_Framework-orange?style=for-the-badge&logo=shell)](https://github.com/ArnoFrost/ADotFiles)
-[![ArnoScripts](https://img.shields.io/badge/ArnoScripts-Research_Toolkit-purple?style=for-the-badge&logo=script)](https://github.com/ArnoFrost/ArnoScripts)
-
-### 📱 Android Projects
-[![Crack-Card](https://img.shields.io/badge/Crack--Card-JLAU_M1_Card_Program-red?style=for-the-badge&logo=java)](https://github.com/ArnoFrost/Crack-Card)
-[![AdapterDemo](https://img.shields.io/badge/AdapterDemo-RecyclerView_Adapter_Optimization-brightgreen?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/AdapterDemo)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -251,51 +130,11 @@ Exploring AI applications in everyday development.
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Collaboration Tools
-[![DDAC](https://img.shields.io/badge/DDAC-Document--Driven_AI_Collaboration-blue?style=for-the-badge&logo=openai)](https://github.com/ArnoFrost/DDAC)
-[![AI-TASK](https://img.shields.io/badge/AI--TASK-File_Template_Driven_Collaboration-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
-
-### 🛠️ Developer Tools
-[![ADotFiles](https://img.shields.io/badge/ADotFiles-Modular_Zsh_Config_Framework-orange?style=for-the-badge&logo=shell)](https://github.com/ArnoFrost/ADotFiles)
-[![ArnoScripts](https://img.shields.io/badge/ArnoScripts-Research_Toolkit-purple?style=for-the-badge&logo=script)](https://github.com/ArnoFrost/ArnoScripts)
-
-### 📱 Android Projects
-[![Crack-Card](https://img.shields.io/badge/Crack--Card-JLAU_M1_Card_Program-red?style=for-the-badge&logo=java)](https://github.com/ArnoFrost/Crack-Card)
-[![AdapterDemo](https://img.shields.io/badge/AdapterDemo-RecyclerView_Adapter_Optimization-brightgreen?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/AdapterDemo)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ArnoFrost/ArnoFrost/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Collaboration Tools
-[![DDAC](https://img.shields.io/badge/DDAC-Document--Driven_AI_Collaboration-blue?style=for-the-badge&logo=openai)](https://github.com/ArnoFrost/DDAC)
-[![AI-TASK](https://img.shields.io/badge/AI--TASK-File_Template_Driven_Collaboration-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
-
-### 🛠️ Developer Tools
-[![ADotFiles](https://img.shields.io/badge/ADotFiles-Modular_Zsh_Config_Framework-orange?style=for-the-badge&logo=shell)](https://github.com/ArnoFrost/ADotFiles)
-[![ArnoScripts](https://img.shields.io/badge/ArnoScripts-Research_Toolkit-purple?style=for-the-badge&logo=script)](https://github.com/ArnoFrost/ArnoScripts)
-
-### 📱 Android Projects
-[![Crack-Card](https://img.shields.io/badge/Crack--Card-JLAU_M1_Card_Program-red?style=for-the-badge&logo=java)](https://github.com/ArnoFrost/Crack-Card)
-[![AdapterDemo](https://img.shields.io/badge/AdapterDemo-RecyclerView_Adapter_Optimization-brightgreen?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/AdapterDemo)
 
 </div>
 
