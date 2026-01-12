@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm ArnoFrost!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Android+Client+Engineer;Kotlin+%26+Java+Developer;AI+Application+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
@@ -23,8 +23,8 @@
 </div>
 
 <div align="center">
-  <!-- 连续贡献统计 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoFrost&theme=github-dark-blue&hide_border=true" height="150" alt="streak stats" />
+  <!-- 连续贡献统计 - 使用 GitHub Profile Summary Cards 替代 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=ArnoFrost&theme=github_dark" height="150" alt="commits stats" />
   <!-- 提交时间分布 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArnoFrost&theme=github_dark" height="150" alt="productive time" />
 </div>
@@ -35,25 +35,28 @@
 
 <div align="center">
 
-### 📱 Mobile Development
+### 📱 Android Development (Core)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### 🌐 Web Development
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🌐 Additional Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🔧 Tools & Others
+### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 </div>
 
@@ -64,14 +67,22 @@
 <div align="center">
 
 ```mermaid
-graph LR
-    A[🔍 Learning] --> B[AI/ML Integration]
-    A --> C[Cloud Architecture]
-    A --> D[DevOps Practices]
+graph TB
+    A[🚀 ArnoFrost] --> B[📱 Android Development]
+    A --> C[🤖 AI Applications]
+    A --> D[🔧 Open Source]
     
-    E[🚀 Building] --> F[Mobile Apps]
-    E --> G[Web Applications]
-    E --> H[Open Source Tools]
+    B --> B1[Kotlin/Java Expertise]
+    B --> B2[Modern Android Architecture]
+    B --> B3[Performance Optimization]
+    
+    C --> C1[AI Integration in Mobile]
+    C --> C2[Python Automation]
+    C --> C3[Machine Learning Tools]
+    
+    D --> D1[Geek Projects]
+    D --> D2[Developer Tools]
+    D --> D3[Community Contributions]
 ```
 
 </div>
@@ -88,11 +99,32 @@ graph LR
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArnoFrost&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 使用更稳定的 GitHub Profile Summary Cards 替代 trophy -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnoFrost&theme=github_dark" height="150" alt="github stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnoFrost&theme=github_dark" height="150" alt="repos per language" />
+
+</div>
+
+---
+
+## 💼 Professional Summary
+
+<div align="center">
+
+**🎯 Android Client Engineer** specializing in **Kotlin & Java**
+
+Passionate about building high-quality mobile applications with modern Android architecture patterns.
+Always exploring the intersection of **AI technology** and mobile development.
+
+**🔍 Areas of Interest:**
+- 📱 Native Android Development
+- 🤖 AI/ML Integration in Mobile Apps  
+- 🛠️ Developer Tools & Automation
+- 🌟 Open Source Contributions
 
 </div>
 
@@ -104,6 +136,7 @@ graph LR
 
 [![Email](https://img.shields.io/badge/Email-arnofrost47@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnofrost47@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ArnoFrost-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnoFrost)
+[![Android](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ArnoFrost)
 
 </div>
 
