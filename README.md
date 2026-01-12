@@ -1,7 +1,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=ArnoFrost&data=followers,repositories,stars,commits"  />
+  <!-- 使用 GitHub Profile Summary Cards 替代 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnoFrost&theme=default" />
 </div>
 
 ###
@@ -22,7 +23,7 @@
 <!-- 备用统计卡片（如果上面的服务失效，可以取消注释使用）
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ArnoFrost&theme=default" height="150" alt="streak stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnoFrost&theme=default" height="150" alt="language stats" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=ArnoFrost&data=followers,repositories,stars,commits" alt="profile widget" />
 </div>
 -->
 
