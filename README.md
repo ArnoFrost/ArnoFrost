@@ -35,28 +35,17 @@
 
 <div align="center">
 
-### 📱 Android Development (Core)
+### 📱 Android Development
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### 🤖 AI Exploration
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🌐 Additional Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🔧 Tools & DevOps
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
@@ -68,21 +57,9 @@
 
 ```mermaid
 graph TB
-    A[🚀 ArnoFrost] --> B[📱 Android Development]
-    A --> C[🤖 AI Applications]
+    A[🚀 ArnoFrost] --> B[📱 Android]
+    A --> C[🤖 AI Apps]
     A --> D[🔧 Open Source]
-    
-    B --> B1[Kotlin/Java Expertise]
-    B --> B2[Modern Android Architecture]
-    B --> B3[Performance Optimization]
-    
-    C --> C1[AI Integration in Mobile]
-    C --> C2[Python Automation]
-    C --> C3[Machine Learning Tools]
-    
-    D --> D1[Geek Projects]
-    D --> D2[Developer Tools]
-    D --> D3[Community Contributions]
 ```
 
 </div>
@@ -115,16 +92,10 @@ graph TB
 
 <div align="center">
 
-**🎯 Android Client Engineer** specializing in **Kotlin & Java**
+**🎯 Android Client Engineer** | **Kotlin & Java**
 
-Passionate about building high-quality mobile applications with modern Android architecture patterns.
-Always exploring the intersection of **AI technology** and mobile development.
-
-**🔍 Areas of Interest:**
-- 📱 Native Android Development
-- 🤖 AI/ML Integration in Mobile Apps  
-- 🛠️ Developer Tools & Automation
-- 🌟 Open Source Contributions
+Passionate about crafting quality mobile experiences.  
+Exploring AI applications in everyday development.
 
 </div>
 
