@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm ArnoFrost!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Android+Client+Engineer;Kotlin+%26+Java+Developer;AI+Application+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Android+Client+Engineer;AI+Agent+Infrastructure+Builder;Document-Driven+AI+Collaboration;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
@@ -12,15 +12,29 @@
 
 <div align="center">
 
-### 🤖 AI Collaboration Tools
-[![DDAC](https://img.shields.io/badge/DDAC-Document--Driven_AI_Collaboration-blue?style=for-the-badge&logo=openai)](https://github.com/ArnoFrost/DDAC)
-[![AI-TASK](https://img.shields.io/badge/AI--TASK-File_Template_Driven_Collaboration-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
+### 🧠 AI Agent Ecosystem
+
+> DDAC 方法论 → AI-TASK 落地实践 → Infinite-Engine 自主运行
+
+[![DDAC](https://img.shields.io/badge/DDAC-Document--Driven_AI_Collaboration-blue?style=for-the-badge&logo=bookstack)](https://github.com/ArnoFrost/DDAC)
+[![AI-TASK](https://img.shields.io/badge/AI--TASK-Task_Roadmap_%26_Skill_System-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
+[![Infinite-Engine](https://img.shields.io/badge/Infinite--Engine-Autonomous_Coding_Runtime-purple?style=for-the-badge&logo=infinity)](https://github.com/ArnoFrost/Infinite-Engine)
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  DDAC              →  AI-TASK           →  Infinite-Engine  │
+│  方法论 & 元 Prompt    任务路书 & 技能系统     长程 Agent 编排引擎  │
+│  "怎么协作"           "协作什么"             "自主执行"          │
+└─────────────────────────────────────────────────────────┘
+```
 
 ### 🛠️ Developer Tools
-[![ADotFiles](https://img.shields.io/badge/ADotFiles-Modular_Zsh_Config_Framework-orange?style=for-the-badge&logo=shell)](https://github.com/ArnoFrost/ADotFiles)
-[![ArnoScripts](https://img.shields.io/badge/ArnoScripts-Research_Toolkit-purple?style=for-the-badge&logo=script)](https://github.com/ArnoFrost/ArnoScripts)
+
+[![ADotFiles](https://img.shields.io/badge/ADotFiles-Modular_Zsh_Config_Framework-orange?style=for-the-badge&logo=zsh)](https://github.com/ArnoFrost/ADotFiles)
+[![ArnoScripts](https://img.shields.io/badge/ArnoScripts-Research_Toolkit-grey?style=for-the-badge&logo=gnubash)](https://github.com/ArnoFrost/ArnoScripts)
 
 ### 📱 Android Projects
+
 [![AdapterDemo](https://img.shields.io/badge/AdapterDemo-RecyclerView_Adapter_Optimization-brightgreen?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/AdapterDemo)
 [![LifeDemo](https://img.shields.io/badge/LifeDemo-Android_Lifecycle_Management-blue?style=for-the-badge&logo=android)](https://github.com/ArnoFrost/LifeDemo)
 
@@ -32,13 +46,15 @@
 
 <div align="center">
 
-**📱 Android** • **🤖 AI Apps** • **🔧 Open Source**
+**🧠 AI Agent Infrastructure** • **📱 Android** • **🔧 Open Source**
 
 ```
-┌─ 🚀 ArnoFrost ─┐
-├─ 📱 Android    │ Kotlin/Java expertise
-├─ 🤖 AI Apps    │ Exploring possibilities  
-└─ 🔧 OSS        │ Community contributions
+┌─ 🚀 ArnoFrost ──────────────────────────────────────┐
+├─ 🧠 AI Agents  │ Building autonomous coding systems │
+├─ 📄 DDAC       │ Document-Driven AI Collaboration   │
+├─ 📱 Android    │ Kotlin/Java mobile expertise       │
+└─ 🔧 OSS        │ Community contributions            │
+└──────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -62,9 +78,9 @@
 
 <div align="center">
 
-**📱 Android** `Kotlin` `Java` `Android SDK`  
-**🤖 AI** `Python` `Automation`  
-**🔧 Tools** `Git` `Shell` `CLI`
+**📱 Android** `Kotlin` `Java` `Compose` `KMM`
+**🤖 AI / Agent** `Python` `Shell` `Prompt Engineering` `tmux`
+**🔧 Tools** `Git` `Zsh` `CLI` `Markdown`
 
 </div>
 
@@ -73,7 +89,7 @@
 ## 📈 Activity & Achievements
 
 <div align="center">
-  
+
 [![ArnoFrost's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArnoFrost&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -93,10 +109,10 @@
 <div align="center">
 
 **🎯 Android Client Engineer** specializing in **Kotlin & Java**
+**🧠 AI Agent Builder** crafting **Document-Driven AI Collaboration** systems
 
-*Crafting quality mobile experiences*  
-*Exploring AI applications in development*  
-*Contributing to open source community*
+*Building the bridge between human intent and autonomous AI execution*
+*From methodology (DDAC) → task management (AI-TASK) → autonomous runtime (Infinite-Engine)*
 
 </div>
 
