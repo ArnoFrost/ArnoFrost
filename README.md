@@ -2,7 +2,12 @@
 
 # 👋 Hi there, I'm ArnoFrost!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Android+Client+Engineer;AI+Agent+Infrastructure+Builder;Document-Driven+AI+Collaboration;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Android+客户端工程师;轻量认知熵治理;文档驱动人机协作;开源维护者" alt="Typing SVG" />
+
+Android 客户端 · 长程人机协作基建 · 本地优先开源
+
+[![Website](https://img.shields.io/badge/站点-arnofrost.github.io-blue?style=flat-square)](https://arnofrost.github.io/)
+[![Email](https://img.shields.io/badge/邮箱-arnofrost47@gmail.com-red?style=flat-square&logo=gmail)](mailto:arnofrost47@gmail.com)
 
 </div>
 
@@ -12,21 +17,30 @@
 
 <div align="center">
 
-### 🧠 AI Agent Ecosystem
+### 🧠 人机协作脉络
 
-> DDAC 方法论 → AI-TASK 落地实践 → Infinite-Engine 自主运行
+> **DDAC** 方法论 → **Prism** 落地实践 → **FrostAtlas** 长程执行控制
 
 [![DDAC](https://img.shields.io/badge/DDAC-Document--Driven_AI_Collaboration-blue?style=for-the-badge&logo=bookstack)](https://github.com/ArnoFrost/DDAC)
-[![AI-TASK](https://img.shields.io/badge/AI--TASK-Task_Roadmap_%26_Skill_System-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
-[![Infinite-Engine](https://img.shields.io/badge/Infinite--Engine-Autonomous_Coding_Runtime-purple?style=for-the-badge&logo=infinity)](https://github.com/ArnoFrost/Infinite-Engine)
+[![Prism](https://img.shields.io/badge/Prism-轻量认知熵管理-36BCF7?style=for-the-badge)](https://github.com/ArnoFrost/prism)
+[![FrostAtlas](https://img.shields.io/badge/FrostAtlas-Agent_执行控制面-8B5CF6?style=for-the-badge)](https://github.com/ArnoFrost/FrostAtlas)
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  DDAC              →  AI-TASK           →  Infinite-Engine  │
-│  方法论 & 元 Prompt    任务路书 & 技能系统     长程 Agent 编排引擎  │
-│  "怎么协作"           "协作什么"             "自主执行"          │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  DDAC              →  Prism                 →  FrostAtlas       │
+│  文档驱动协作方法论      轻量认知熵管理（本地基座）    治具优先的执行控制面     │
+│  "怎么协作"            "状态与决策怎么不乱"         "多轮执行怎么可验证"      │
+├──────────────────────────────────────────────────────────────┤
+│  早期实践：AI-TASK（任务路书）→ Infinite-Engine（自主运行实验）          │
+└──────────────────────────────────────────────────────────────┘
 ```
+
+**DDAC** 讲协作方法：用文档承载意图与边界，而不是把上下文全压在对话里。  
+**Prism**（当前主推）是在此方法上落地的 SDK：本地优先、`focus` 单入口、可选 workflow 治理认知熵；详见 [prism-3.0 说明](https://github.com/ArnoFrost/prism/blob/main/docs/prism-3.0.md)。  
+**FrostAtlas** 管另一层：Agent 长程任务里的合同、证据与关口，与 Prism 互补而非替代。
+
+[![AI-TASK](https://img.shields.io/badge/AI--TASK-任务路书_%26_技能实践-green?style=for-the-badge&logo=task)](https://github.com/ArnoFrost/AI-TASK)
+[![Infinite-Engine](https://img.shields.io/badge/Infinite--Engine-早期自主运行实验-purple?style=for-the-badge&logo=infinity)](https://github.com/ArnoFrost/Infinite-Engine)
 
 ### 🛠️ Developer Tools
 
@@ -46,15 +60,15 @@
 
 <div align="center">
 
-**🧠 AI Agent Infrastructure** • **📱 Android** • **🔧 Open Source**
+**🧠 Prism v3.0-canary** · **FrostAtlas v0.6** · **📱 Android** · **🔧 开源叙事对齐**
 
 ```
-┌─ 🚀 ArnoFrost ──────────────────────────────────────┐
-├─ 🧠 AI Agents  │ Building autonomous coding systems │
-├─ 📄 DDAC       │ Document-Driven AI Collaboration   │
-├─ 📱 Android    │ Kotlin/Java mobile expertise       │
-└─ 🔧 OSS        │ Community contributions            │
-└──────────────────────────────────────────────────────┘
+┌─ ArnoFrost ─────────────────────────────────────────────┐
+├─ 📄 DDAC / Prism  │ 文档协作 → 认知熵治理（主推）        │
+├─ 🧊 FrostAtlas    │ 长程 Agent 执行可验证、可恢复          │
+├─ 📱 Android       │ Kotlin / Java / KMM                  │
+└─ 🔧 OSS           │ GitHub 公开面与 dogfood 同步           │
+└────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -78,9 +92,9 @@
 
 <div align="center">
 
-**📱 Android** `Kotlin` `Java` `Compose` `KMM`
-**🤖 AI / Agent** `Python` `Shell` `Prompt Engineering` `tmux`
-**🔧 Tools** `Git` `Zsh` `CLI` `Markdown`
+**📱 Android** `Kotlin` `Java` `Compose` `KMM`  
+**🤖 AI / Agent** `Python` `Shell` `Markdown` `Prompt Engineering`  
+**🔧 Tools** `Git` `Zsh` `CLI` `Obsidian`
 
 </div>
 
@@ -108,11 +122,10 @@
 
 <div align="center">
 
-**🎯 Android Client Engineer** specializing in **Kotlin & Java**
-**🧠 AI Agent Builder** crafting **Document-Driven AI Collaboration** systems
+**🎯 Android 客户端工程师** · **🧠 人机协作基建**
 
-*Building the bridge between human intent and autonomous AI execution*
-*From methodology (DDAC) → task management (AI-TASK) → autonomous runtime (Infinite-Engine)*
+用 **DDAC** 摸索「怎么协作」，用 **Prism** 把协作状态落在本地 workspace，用 **FrostAtlas** 约束 Agent 长程执行。  
+白天写 Android，晚上维护 dotfiles 与开源仓库。
 
 </div>
 
