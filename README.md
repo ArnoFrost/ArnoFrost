@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm ArnoFrost!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Android+客户端工程师;轻量认知熵治理;文档驱动人机协作;开源维护者" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Android+%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%3B%E8%BD%BB%E9%87%8F%E8%AE%A4%E7%9F%A5%E7%86%B5%E6%B2%BB%E7%90%86%3B%E6%96%87%E6%A1%A3%E9%A9%B1%E5%8A%A8%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9C%3B%E5%BC%80%E6%BA%90%E7%BB%B4%E6%8A%A4%E8%80%85" alt="Typing SVG" />
 
 Android 客户端 · 长程人机协作基建 · 本地优先开源
 
